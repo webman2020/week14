@@ -91,6 +91,12 @@ form a.delete:hover	{ background-color: #FF5656; background-image: -moz-linear-g
 form a.delete:active	{ border-color: #800; color: #fff; text-shadow: none; }
 
 
+/* —————————	HOVER STYLES	*/
+
+#About:hover, #shares:hover, #BtnSubmit:hover	{ background-color: #000; color: #fff; cursor: pointer; }
+#remove:hover					{ background-color: #fdb; color: #000; cursor: pointer; }
+
+
 /* —————————	SCREEN WIDTH PAGE STYLES	*/
 
 @media only screen and (max-width: 29.6em) {
