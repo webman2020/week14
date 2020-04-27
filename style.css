@@ -20,7 +20,7 @@ h1		{ color: #339; margin: 10px 0 30px 0; text-align: center; }
 .Hilite2	{ color: #383; }
 .NoBr		{ white-space: nowrap; }
 .SqBull		{ padding: 0 8px 0 8px; color: #77c; }
-.FootBrk	{ display: none; }
+.FootBrk	{ display: inline; }
 .DateControl	{ margin: 40px 0 40px; }
 .DateControl2	{ border-radius: 10px; background-color: #fffaf0; border: 1px solid #fff0e0; padding: 3px 10px; }
 .InputName	{ padding-right: 7px; }
