@@ -30,7 +30,7 @@ function WhenLoad()	{
 function About() {
 	AboutText =	"Thanks for using the \"e-Shopper: List Tracker\" App!\n\n" +
 			"Created by: Curt Dunmire\n" +
-			"Enrolled in: JavaScript (Web233), yr. 2020\n\n" +
+			"Enrolled in: JavaScript Class (Web233), yr. 2020\n\n" +
 			"Questions about the JavaScript class can be directed to\n" +
 			"Professor Chuck Konkol at: c.konkol@rockvalleycollege.edu\n\n" +
 			"Register for classes @ RockValleyCollege.edu\n\n";
